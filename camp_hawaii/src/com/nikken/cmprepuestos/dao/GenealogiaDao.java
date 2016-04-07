@@ -15,6 +15,7 @@ import com.nikken.cmprepuestos.persistencia.ConstantesPersistencia;
 public class GenealogiaDao {
 /*
  * Esto es un comentario para ver como funciona GitHub
+ * Otro comment para Felipe
  */
 	
 	/**
